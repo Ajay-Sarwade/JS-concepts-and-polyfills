@@ -17,3 +17,4 @@ function throttle(cb, delay) {
 }
 
 let throttledFun = throttle(print, 2000);
+document.getElementById("btn").addEventListener("click", throttledFun);

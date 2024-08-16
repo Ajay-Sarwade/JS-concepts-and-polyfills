@@ -13,3 +13,4 @@ function debounce(cb, delay) {
 }
 
 let debounceFun = debounce(print, 5000);
+document.getElementById("btn").addEventListener("click", debounceFun);
