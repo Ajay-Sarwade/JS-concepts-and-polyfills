@@ -1,0 +1,40 @@
+JS KEY CONCEPTS / RESOURCES:
+
+1. Hositing 
+2. Closures and scope
+3. Functions
+4. Promises and async await 
+5. “This “ keyword
+6. Proto and prototype
+
+
+HOISTING: 
+
+1.  https://dev.to/midasxiv/scopes-hoisting-closures-tricky-questions-4c85
+2. https://www.freecodecamp.org/news/function-hoisting-hoisting-interview-questions-b6f91dbc2be8/
+3. https://medium.com/@pvivek4/hoisting-demystified-with-popular-interview-questions-38a93ea441ff
+4.  https://fmennen.de/post/understanding-java-script-hoisting-tricky-questions-explained
+5.  https://eishta.medium.com/javascript-tricky-questions-hoisting-6df66b07334a
+
+
+
+CLOSURES AND SCOPE:
+1. https://dmitripavlutin.com/javascript-closures-interview-questions/
+2. https://coderbyte.com/algorithm/3-common-javascript-closure-questions
+3. https://desolatte.medium.com/5-tricky-javascript-closure-questions-ede90c010585
+4. https://blog.bitsrc.io/collection-of-closure-problems-in-javascript-fcd38ac1c765
+5. https://dev.to/midasxiv/scopes-hoisting-closures-tricky-questions-4c85
+
+
+THIS KEYWORD : 
+1. https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj
+2.  https://dmitripavlutin.com/javascript-this-interview-questions/
+3. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+4. https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d
+
+
+
+PROMISES :
+
+1. https://eishta.medium.com/javascript-tricky-questions-promises-12c1ebeff20c
+2.
