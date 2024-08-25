@@ -37,4 +37,5 @@ THIS KEYWORD :
 PROMISES :
 
 1. https://eishta.medium.com/javascript-tricky-questions-promises-12c1ebeff20c
-2.
+2.https://codeburst.io/javascript-interview-questions-promises-1ab2fb7f0467
+3. https://www.crocoder.dev/blog/promises-exercises/
